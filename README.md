@@ -1,7 +1,7 @@
 <h1>Robot Joke Teller</h1>
 
 ## Features
-1. user can click Tell Me A Joke buttom to get a random joke
+1. user can click Tell Me A Joke button to get a random joke
 
 
 ## Installation and Execution
